@@ -1,0 +1,20 @@
+{
+  "name": "api-practico",
+  "version": "1.0.0",
+  "description": "Practicando con API REST",
+  "homepage": "https://github.com/jrgsanta/api-practico#readme",
+  "bugs": {
+    "url": "https://github.com/jrgsanta/api-practico/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrgsanta/api-practico.git"
+  },
+  "license": "MIT",
+  "author": "@jrgsanta",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
